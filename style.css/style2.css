@@ -113,7 +113,7 @@ main{
     color: #757575;
  }
  .resume hr{
-    margin: 30px 50px;
+    margin: 30px 5px;
  }
  .resume-b{
     margin-top: 50px;
@@ -136,3 +136,9 @@ footer input[type="text"], footer input[type="email"],footer textarea {
     margin-bottom: 24px;
     border: none;
 }
+hr{
+    -ms-perspective-origin-x: 230;
+    -ms-perspective-origin-y: 2809;
+    width: 558;
+}
+]
